@@ -1,0 +1,1 @@
+# Applications for Flipper Zero
